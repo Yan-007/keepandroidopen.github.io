@@ -17,11 +17,11 @@ site_copyright: "<strong>Urheberrechte</strong>: Keine. Dieses Werk steht unter 
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
 Diese Registrierung umfasst:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Zahlung einer Gebühr an Google</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Zustimmung zu den Nutzungsbedingungen von Google</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Vorlage eines amtlichen Ausweises</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Hochladen des Nachweises über den privaten Signaturschlüssel des Entwicklers</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Liste aller aktuellen und zukünftigen App-Kennungen</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Zahlung einer Gebühr an Google</div>  
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Zustimmung zu den Nutzungsbedingungen von Google</div>  
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Vorlage eines amtlichen Ausweises</div>  
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Hochladen des Nachweises über den privaten Signaturschlüssel des Entwicklers</div>  
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Liste aller aktuellen und zukünftigen App-Kennungen</div>
 
 ## Was das für Ihre Rechte bedeutet
 

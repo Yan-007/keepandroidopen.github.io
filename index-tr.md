@@ -19,11 +19,11 @@ ile merkezi kayıt yaptırılmadan Android platformu için uygulama
 geliştirmenin mümkün olmayacağını beyan etmiştir.
 Bu kayıt, şunlara sebep olacaktır:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Google'a bir ücret ödenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Google'ın Şart ve Koşullarına onay verilmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Hükümet tasdikli kimlik belgesi sağlanmasına</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Google'a bir ücret ödenmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Google'ın Şart ve Koşullarına onay verilmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Hükümet tasdikli kimlik belgesi sağlanmasına</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine</div>
 
 
 ## Bu, haklarınız için ne anlama gelir

@@ -19,11 +19,11 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paying a fee to Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Providing government identification</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Listing all current and future application identifiers</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Paying a fee to Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Agreeing to Google's Terms and Conditions</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Providing government identification</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Uploading evidence of the developer's private signing key</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Listing all current and future application identifiers</div>
 
 ## What this means for your rights
 

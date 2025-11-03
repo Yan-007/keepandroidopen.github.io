@@ -19,11 +19,11 @@ il ne sera plus possible de développer des applications pour la plateforme Andr
 sans s'être préalablement enregistré auprès de Google.
 Cet enregistrement impliquera:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paiement de frais à Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Acceptation des conditions d'utilisation de Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Fourniture d'une pièce d'identité officielle</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Liste de tous les identifiants d'application actuels et futurs</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Paiement de frais à Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Acceptation des conditions d'utilisation de Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Fourniture d'une pièce d'identité officielle</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Liste de tous les identifiants d'application actuels et futurs</div>
 
 ## Ce que cela signifie pour vos droits
 
