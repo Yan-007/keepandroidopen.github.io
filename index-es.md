@@ -48,79 +48,80 @@ Las autoridades reguladoras de todo el mundo están sinceramente preocupadas por
 Las quejas son especialmente eficaces cuando proceden de un ciudadano del país o la región en cuestión, y cuando el correo electrónico está redactado en uno de los idiomas oficiales de la autoridad reguladora. Solicite un acuse de recibo por escrito de la queja y considere la posibilidad de enviar cualquier respuesta que reciba a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) para que podamos destacarla y referenciarla.
 
 #### Unión Europea
-
-- Correo electrónico: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
+- Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
+- Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_es](https://digital-markets-act.ec.europa.eu/contact-dma-team_es)
+- Correo electrónico Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
 - Envíe sus comentarios sobre la interacción entre la DMA y el RGPD a nivel de la UE: [Consulta sobre las directrices comunes relativas a la interacción entre la DMA y el RGPD](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) hasta el 4 de diciembre.
 - Presente una reclamación ante la [Política de Competencia de la UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
 - ~~[CADUCADO] Envíe sus comentarios sobre la ley europea sobre equidad digital: [Ley europea sobre equidad digital: dé su opinión](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
 
 #### Reino Unido
 
-- Correo electrónico: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
+- Correo electrónico: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)
 - Presentar una denuncia ante la [Autoridad de Competencia y Mercados del Reino Unido](https://contact-the-cma.service.gov.uk/wizard/classify)
 
 #### Estados Unidos
 
 - Presentar una denuncia ante el [Departamento de Justicia de los Estados Unidos – Formulario de denuncia antimonopolio en línea](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)
 - Presentar una denuncia ante la [Comisión Federal de Comercio de los Estados Unidos: Denuncias antimonopolio](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
-- ~~Correo electrónico (desactivado): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)~~
-- ~~Correo electrónico (desactivado): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)~~
+- ~~Correo electrónico (desactivado): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~
+- ~~Correo electrónico (desactivado): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~
 - _Nota: Debido al [cierre del Gobierno de EE. UU.](https://www.npr.org/series/g-s1-91413/government-shutdown-2025), es posible que transcurra mucho tiempo antes de que las reclamaciones sean atendidas y registradas._
 
 #### Brasil
 
-- Correo electrónico: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil&cc=brazil@keepandroidopen.org)
+- Correo electrónico: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
 - Póngase en contacto con Procon (según su estado) y [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
 - _Nota: Brasil debería ser uno de los [4 primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
 
 #### Singapur
 
-- Correo electrónico: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore&cc=singapore@keepandroidopen.org)
+- Correo electrónico: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
 - Póngase en contacto con la [Comisión de Competencia y Consumo de Singapur (CCCS)](https://www.cccs.gov.sg)
 - _Nota: Singapur debería ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
 
 #### Tailandia
 
-- Correo electrónico: [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand&cc=thailand@keepandroidopen.org)
+- Correo electrónico: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
 - Póngase en contacto con la [Oficina de la Comisión de Competencia Comercial (OTCC)](https://www.tcct.or.th/)
 - _Nota: Tailandia debería ser uno de los [cuatro primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
 
 #### Indonesia
 
-- Correo electrónico: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?subject=Concerns%20about%20Android%20and%20competition%20in%20Indonesia&cc=indonesia@keepandroidopen.org)
+- Correo electrónico: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - Póngase en contacto con la [KPPU para reclamaciones relacionadas con la competencia](https://eng.kppu.go.id)
 - _Nota: Indonesia debería ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
 
 #### Australia
 
-- Correo electrónico: [international@accc.gov.au](mailto:international@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
+- Correo electrónico: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - Presente una queja ante la [Comisión Australiana de Competencia y Consumo (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Póngase en contacto con la Asociación Australiana de Consumidores ([CHOICE](https://accounts.choice.com.au/contact-us/)). Pídales que presenten una reclamación ante la Comisión Australiana de Competencia y Consumo (ACCC).
 
 #### Japón
 
-- Correo electrónico: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
+- Correo electrónico: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)
 - Contactar con la [Comisión Japonesa de Competencia (JFTC)](https://www.jftc.go.jp/)
 
 #### Corea del Sur
 
-- Correo electrónico: [kftc@korea.kr](mailto:kftc@korea.kr?subject=Concerns%20about%20Android%20and%20competition%20in%20Korea&cc=korea@keepandroidopen.org)
+- Correo electrónico: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)
 - Contactar con la [Comisión Coreana de Competencia (KFTC)](https://www.ftc.go.kr/)
 
 #### India
 
-- Correo electrónico: [cci-chairman@nic.in](mailto:cci-chairman@nic.in?subject=Concerns%20about%20Android%20and%20competition%20in%20India&cc=india@keepandroidopen.org)
+- Correo electrónico: [cci-chairman@nic.in](mailto:cci-chairman@nic.in?cc=india@keepandroidopen.org)
 - Póngase en contacto con la [Comisión de Competencia de la India (CCI)](https://www.cci.gov.in/)
 
 #### Canadá
 
-- Correo electrónico: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
+- Correo electrónico: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)
 - Presentar una queja ante la [Oficina de Competencia de Canadá](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 - Presentar un informe ante la [Oficina de Protección al Consumidor de Ontario (https://competition-bureau.canada.ca/en)](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
 #### Taiwán
 
-- Correo electrónico: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
+- Correo electrónico: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)
 - Póngase en contacto con la [Comisión de Comercio Justo (FTC)](https://www.ftc.gov.tw/)
 
 #### Turquía
@@ -129,12 +130,12 @@ Las quejas son especialmente eficaces cuando proceden de un ciudadano del país 
 
 #### Argentina
 
-- Correo electrónico: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?subject=Concerns%20about%20Android%20and%20competition%20in%20Argentina&cc=argentina@keepandroidopen.org)
+- Correo electrónico: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)
 - Contactar con la [Comisión Nacional de Defensa de la Competencia (CNDC)]
 
 #### México
 
-- Correo electrónico: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
+- Correo electrónico: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)
 - Contactar con la [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)
 
 #### Filipinas

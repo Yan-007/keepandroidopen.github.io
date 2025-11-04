@@ -56,75 +56,77 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 Şikayetler, bölge veya ülkenin bir vatandaşı tarafından ve e-posta bölgenin yönetici kurumunun resmî dillerinden birisinde yazıldığında bilhassa etkili olur. Şikayetin alındığına dair _yazılı bir alındı belgesi_ talep edin ve alacağınız cevapları [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) adresine ulaştırmayı değerlendirin ki onları referans olarak kullanıp yayınlayabilelim.
 
 #### Avrupa Birliği
-- E-posta: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
+- Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
+- Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
+- E-posta Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
 - DMA ile GDPR aradındaki AB etkileşimine dair geri bildirim gönderin: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) 4 aralık tarihine dek.
 - Şu kuruma şikayette bulunun: [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
 - ~~Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [SÜRESİ GEÇMİŞTİR]~~
 
 #### Amerika Birleşik Devletleri
-- ~~E-posta: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org) [DEVRE DIŞI]~~
-- ~~E-posta: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)[DEVRE DIŞI]~~
+- ~~E-posta: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org) [DEVRE DIŞI]~~
+- ~~E-posta: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)[DEVRE DIŞI]~~
 - Şu kurumlara şikayette bulunun: [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
 #### Birleşik Krallık
-- E-posta: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
+- E-posta: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)
 - Şu kuruma şikatte bulunun: [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
 #### Brezilya
-- E-posta: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil&cc=brazil@keepandroidopen.org)
+- E-posta: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
 - Procon ile irtibata geçin (eyaletinize göre değişir) ve [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
 - _Not: Brezilya'nın, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 
 #### Singapur
-- E-posta: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore&cc=singapore@keepandroidopen.org)
+- E-posta: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
 - [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg) ile irtibata geçin
 - _Not: Singapur'un, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 
 #### Tayland
-- E-posta: [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand&cc=thailand@keepandroidopen.org)
+- E-posta: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
 - [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/) ile irtibata geçin
 - _Not: Tayland'ın, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 
 #### Endonezya
-- E-posta: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?subject=Concerns%20about%20Android%20and%20competition%20in%20Indonesia&cc=indonesia@keepandroidopen.org)
+- E-posta: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - [KPPU for Competition Complaints](https://eng.kppu.go.id) ile irtibata geçin
 - _Note: Endonezya'nın, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 
 #### Avustralya
-- E-posta: [international@accc.gov.au](mailto:international@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
+- E-posta: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue) kurumuna şikayette bulunun.
 - Avustralyalı Tüketiciler Derneği'ne (Australian Australian Consumers’ Association) ([CHOICE](https://accounts.choice.com.au/contact-us/)) talebinizi iletin. Onlardan Avustralya Rekabet ve Tüketici Komisyonu'na (Australian Competition & Consumer Comission (ACCC)) belirli bir şikayette bulunmalarını isteyin.
 
 #### Japonya
-- E-posta: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
+- E-posta: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)
 - [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/) ile irtibata geçin
 
 #### Güney Kore
-- E-posta: [kftc@korea.kr](mailto:kftc@korea.kr?subject=Concerns%20about%20Android%20and%20competition%20in%20Korea&cc=korea@keepandroidopen.org)
+- E-posta: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)
 - [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/) ile irtibata geçin
 
 #### Hindistan
-- E-posta: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?subject=Concerns%20about%20Android%20and%20competition%20in%20India&cc=india@keepandroidopen.org)
+- E-posta: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)
 - [Competition Commission of India (CCI)](https://www.cci.gov.in/) ile irtibata geçin
 
 #### Kanada
-- E-posta: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
+- E-posta: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)
 - Şu kuruma şikayette bulunun: [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 - Bu kuruma bir rapor iletin: [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
 #### Tayvan
-- E-posta: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
+- E-posta: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)
 - [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/) ile irtibata geçin
 
 #### Türkiye
 - [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa) ile irtibata geçin
 
 #### Arjantin
-- E-posta: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?subject=Concerns%20about%20Android%20and%20competition%20in%20Argentina&cc=argentina@keepandroidopen.org)
+- E-posta: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)
 - [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia) ile irtibata geçin
 
 #### Meksika
-- E-posta: [contacto@cofece.mx](mailto:contacto@cofece.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
+- E-posta: [contacto@cofece.mx](mailto:contacto@cofece.mx?cc=mexico@keepandroidopen.org)
 - [Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/) ile irtibata geçin
 
 #### Filipinler
