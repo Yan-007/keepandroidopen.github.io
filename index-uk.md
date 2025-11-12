@@ -2,7 +2,7 @@
 layout: page
 title: "Збережемо Android відкритим"
 lang: uk
-permalink: /
+permalink: /uk/
 description: "Виступаємо за те, щоб Android залишався вільною, відкритою платформою, на якій кожен може створювати застосунки."
 
 # localizable sections for the footer text
@@ -196,15 +196,15 @@ site_copyright: "**Авторське право:** Відсутнє. Ця ро�
 
 Ці проєкти працюють над створенням вкрай необхідної конкуренції у сфері мобільного обладнання.
 
-- [Librephone від Free Software Foundation](https://librephone.fsf.org/)
+- [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
 - [Graphene OS](https://grapheneos.org/)
-- [PinePhone від Pine64](https://pine64.org/devices/pinephone/)
-- [Spirit Smartphone від V3lectronics](https://github.com/V3lectronics/SPIRIT)
+- [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
+- [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)
-- [PureOS від Purism](https://pureos.net/)
+- [PureOS by Purism](https://pureos.net/)
 - [PostmarketOS](https://postmarketos.org/)
 - [Replicant](https://www.replicant.us/)
-- [Ubuntu Touch від UBPorts Community](https://www.ubuntu-touch.io/)
+- [Ubuntu Touch by the UBPorts Community](https://www.ubuntu-touch.io/)
 - [Fairphone](https://www.fairphone.com/)
 - [Sailfish OS](https://sailfishos.org/)
 - [Mobian](https://mobian-project.org/)
@@ -219,47 +219,46 @@ site_copyright: "**Авторське право:** Відсутнє. Ця ро�
 
 ### Редакційні статті та блоги
 
-- «Контроль доступу до застосунків: шлях до інтернет-цензури, що постійно розширюється» — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
-- «Про що ми говоримо, коли говоримо про стороннє завантаження» — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Обговорення на Hacker News](https://news.ycombinator.com/item?id=45736479))
-- «F-Droid та указ Google про реєстрацію розробників» — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Обговорення на Hacker News](https://news.ycombinator.com/item?id=45409794))
-- «Pluralistic: Дарт Android» — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
-- «Google планує заблокувати стороннє завантаження, як Apple, оголошуючи війну свободі Android» — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
-- «Збережемо Android вільним та відкритим» - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
-- «Приєднуйтесь до протесту проти закриття Android» - [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
+- “Application Gatekeeping: An Ever-Expanding Pathway to Internet Censorship” — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
+- “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
+- “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
+- “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
+- “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+- "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
 
 ### Реакція преси
 
-- «Рух "Keep Android Open" бореться проти обмежень стороннього завантаження від Google» – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
-- «Опір верифікації Android від Google серед розробників зростає» – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
-- «Рух "Keep Android Open" оскаржує правило верифікації розробників від Google» — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
-- «Google шкодить незалежним розробникам Android, змушуючи їх реєструватися» — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
-- «Застосунки Android з відкритим кодом під загрозою через новий указ Google» — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
-- «Нове правило Google щодо ID розробника може зашкодити F-Droid, каже прихильник відкритого коду» — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
-- «"Указ" Google про реєстрацію розробників означає кінець для альтернативних магазинів застосунків» — [https://cybernews.com/tech/googles-developer-registration-decree-end-alternative-app-stores/](https://cybernews.com/tech/googles-developer-registration-decree-end-alternative-app-stores/)
-- «Застосунки Android з відкритим кодом під загрозою через нову політику Google» — [https://www.datamation.com/open-source/android-apps-google-policy/](https://www.datamation.com/open-source/android-apps-google-policy/)
-- «Нові вимоги Google щодо ID можуть знищити незалежні магазини застосунків» — [https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html](https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html)
-- «Вимога Google до всіх розробників Android реєструватися та проходити верифікацію загрожує закриттям магазину застосунків з відкритим кодом F-Droid» — [https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
-- «Нові правила Google для розробників можуть загрожувати сторонньому завантаженню та майбутньому F-Droid» — [https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/](https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/)
-- «Google обмежує одну з найважливіших функцій Android, і користувачі обурені» — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
-- «Обмеження стороннього завантаження Android — це найбільш антиспоживчий крок на сьогодні» - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
-- «План реєстрації розробників від Google "покладе край проєкту F-Droid"» — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
-- «F-Droid каже, що нові обмеження Google на стороннє завантаження вб'ють проєкт» — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
-- «Google вимагатиме верифікацію розробників для застосунків Android поза Play Store» — [https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
-- «Google верифікуватиме розробників Android, які розповсюджують застосунки поза Play Store» — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
-- «Google вимагатиме верифікації розробників для встановлення застосунків Android, включаючи стороннє завантаження» — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
-- «Безпека Android чи прив'язка до постачальника? Нові правила стороннього завантаження від Google виглядають підозріло» — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
-- «Google вимагає ідентифікацію розробників для всіх застосунків Android» - [https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html](https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html)
-- «Google захищає верифікацію розробників» - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
-- «Keep Android Open – захист від заборони анонімних застосунків від Google» - [https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html](https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html)
+- "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
+- "Resistance to Google’s Android verification grows among developers" – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
+- "‘Keep Android Open’ Movement Challenges Google’s Developer Verification Rule" — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
+- "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
+- “Open-Source Android Apps at Risk Under Google’s New Decree” — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
+- “Google’s New Developer ID Rule Could Harm F-Droid, Says Open-Source Advocate” — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
+- “Google’s developer registration ‘decree’ means the end for alternative app stores” — [https://cybernews.com/tech/googles-developer-registration-decree-end-alternative-app-stores/](https://cybernews.com/tech/googles-developer-registration-decree-end-alternative-app-stores/)
+- “Open-Source Android Apps Threatened by Google’s New Policy” — [https://www.datamation.com/open-source/android-apps-google-policy/](https://www.datamation.com/open-source/android-apps-google-policy/)
+- “Google's new ID requirements could destroy independent app stores” — [https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html](https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html)
+- “Google’s Requirement For All Android Developers To Register And Be Verified Threatens To Close Down Open Source App Store F-Droid” — [https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
+- “Google’s new developer rules could threaten sideloading and F-Droid’s future” — [https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/](https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/)
+- "Google is restricting one of Android's most important features, and users are outraged" — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
+- “Android’s sideloading limits are its most anti-consumer move yet” - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+- “Google's dev registration plan 'will end the F-Droid project'” — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
+- “F-Droid says Google’s new sideloading restrictions will kill the project” — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
+- "Google will require developer verification for Android apps outside the Play Store" — [https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
+- "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
+- "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+- “Android Security or Vendor Lock-In? Google’s New Sideloading Rules Smell Fishy” — [https://news.itsfoss.com/new-android-sideloading-rules/](https://news.itsfoss.com/new-android-sideloading-rules/)
+- "Google Demands Dev Identity For All Android Apps" - [https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html](https://www.i-programmer.info/news/193-android/18276-google-demands-dev-identity-for-all-android-apps.html)
+- "Google Defends Developer Verification" - [https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html](https://www.i-programmer.info/news/193-android/18356-google-defends-developer-verification.html)
+- “Keep Android Open – Abwehr gegen Verbot anonymer Apps von Google“- [https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html](https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html)
 
 ### Відео-відповіді
 
-- «Google: 'Ваш телефон за $1000 тепер потребує нашого дозволу на встановлення застосунків'» — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
-- «F-Droid помре у 2026 році, якщо ми не будемо діяти зараз — Techlore» — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
-- «Google видаляє стороннє завантаження» — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
-- «Зміни Google щодо стороннього завантаження можуть покласти край F-Droid - Linux Weekly News» — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
-- «Чи F-Droid у небезпеці? Верифікація розробників Google» — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
-- «Google перетворює Android на Apple: кінець відкритості» — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
+- “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
+- “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
+- “Google is Removing Sideloading” — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
+- “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
+- “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
+- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
 
 ### Обговорення
 
@@ -281,13 +280,13 @@ site_copyright: "**Авторське право:** Відсутнє. Ця ро�
 
 ### Офіційна документація
 
-- Початкове оголошення — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
-- Поговорімо про безпеку: відповіді на ваші головні запитання про верифікацію розробників Android — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
-- Верифікація розробників Android: посібники — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
-- Верифікація розробників Android: поширені запитання — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
-- Представляємо Android Developer Console: перший погляд — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)
-- Завантажте попередню версію нової Android Developer Console — [https://support.google.com/android-developer-console/answer/16450960](https://support.google.com/android-developer-console/answer/16450960)
-- Документація API — [https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED](https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED)
+- Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
+- Let's talk security: Answering your top questions about Android developer verification — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
+- Android developer verification: Guides — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
+- Android developer verification: Frequently asked questions — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
+- Introducing the Android Developer Console: A first look — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)
+- Download an early look of the new Android Developer Console — [https://support.google.com/android-developer-console/answer/16450960](https://support.google.com/android-developer-console/answer/16450960)
+- API Documentation — [https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED](https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED)
 
 ### Різне
 
